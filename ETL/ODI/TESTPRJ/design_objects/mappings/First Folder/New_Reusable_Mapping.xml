@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO8859_1"?>
 <SunopsisExport>
-<Admin IsSmartExportFile="true" RepositoryVersion="05.02.02.07" OdiVersion="12.2.1" OriginWorkRepositoryID="1" IsLegacyIdCompatible="false" Created="2018-06-26 17:15:53 +0000" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="null" keyVect="YUTsxEUDwFMAdXNHhKvWEw==" exportKeySalt="3fdf9dd4-b678-4e82-970a-71d29d796f0e" containsCipherText="false"/>
+<Admin IsSmartExportFile="true" RepositoryVersion="05.02.02.07" OdiVersion="12.2.1" OriginWorkRepositoryID="1" IsLegacyIdCompatible="false" Created="2018-06-26 17:16:36 +0000" />
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="null" keyVect="btB9R+aQIWaP5K2Q8aZDBA==" exportKeySalt="1ffab3e8-32bd-4ec2-bdb0-03582a8ca68c" containsCipherText="false"/>
 <SmartExportList materializeShortcut="true">
    <Include><![CDATA[SnpMapping#326]]></Include>
 </SmartExportList>
