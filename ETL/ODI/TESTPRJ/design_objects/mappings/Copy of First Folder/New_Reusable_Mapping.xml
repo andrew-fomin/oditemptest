@@ -7,7 +7,7 @@
 </SmartExportList>
 <!--before branch-->
 <!--after branch-->
-<Object class="com.sunopsis.dwg.dbobj.SnpProject">
+<Object class="com.sunopsis.dwg.dbobj.SnpProject1">
 		<Field name="BegVersion" type="java.sql.Timestamp">null</Field>
 	<Field name="ExtVersion" type="java.lang.String">null</Field>
 	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2018-06-22 19:48:25.0]]></Field>
