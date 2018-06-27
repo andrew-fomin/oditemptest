@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="ISO8859_1"?>
 <SunopsisExport>
-<Admin IsSmartExportFile="true" RepositoryVersion="05.02.02.07" OdiVersion="12.2.1" OriginWorkRepositoryID="1" IsLegacyIdCompatible="false" Created="2018-06-27 08:25:40 +0000" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="null" keyVect="+gYAzo5h1e4BJ/OocEduKg==" exportKeySalt="eba2a940-eced-44cd-bfc3-97cefec238a3" containsCipherText="false"/>
+<Admin IsSmartExportFile="true" RepositoryVersion="05.02.02.07" OdiVersion="12.2.1" OriginWorkRepositoryID="1" IsLegacyIdCompatible="false" Created="2018-06-27 08:50:33 +0000" />
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="null" keyVect="je7W7hj8NNJuzgDGHnX56w==" exportKeySalt="5659891f-24c3-4213-93cf-07218a7d4395" containsCipherText="false"/>
 <SmartExportList materializeShortcut="true">
    <Include><![CDATA[SnpMapping#327]]></Include>
 </SmartExportList>
-<!--before branch-->
-<!--after branch-->
-<Object class="com.sunopsis.dwg.dbobj.SnpProject1">
+<Object class="com.sunopsis.dwg.dbobj.SnpProject">
 		<Field name="BegVersion" type="java.sql.Timestamp">null</Field>
 	<Field name="ExtVersion" type="java.lang.String">null</Field>
 	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2018-06-22 19:48:25.0]]></Field>
