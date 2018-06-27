@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="ISO8859_1"?>
 <SunopsisExport>
-<Admin IsSmartExportFile="true" RepositoryVersion="05.02.02.07" OdiVersion="12.2.1" OriginWorkRepositoryID="1" IsLegacyIdCompatible="false" Created="2018-06-27 08:25:40 +0000" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="null" keyVect="+gYAzo5h1e4BJ/OocEduKg==" exportKeySalt="eba2a940-eced-44cd-bfc3-97cefec238a3" containsCipherText="false"/>
+<Admin IsSmartExportFile="true" RepositoryVersion="05.02.02.07" OdiVersion="12.2.1" OriginWorkRepositoryID="1" IsLegacyIdCompatible="false" Created="2018-06-27 09:13:30 +0000" />
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="null" keyVect="JZ+bXer0zF/ZVRGM488Yeg==" exportKeySalt="fb523796-d852-4745-89c2-bbbd75e4d752" containsCipherText="false"/>
 <SmartExportList materializeShortcut="true">
    <Include><![CDATA[SnpMapping#327]]></Include>
 </SmartExportList>
-
 <Object class="com.sunopsis.dwg.dbobj.SnpProject">
 		<Field name="BegVersion" type="java.sql.Timestamp">null</Field>
 	<Field name="ExtVersion" type="java.lang.String">null</Field>
