@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO8859_1"?>
 <SunopsisExport>
-<Admin IsSmartExportFile="true" RepositoryVersion="05.02.02.07" OdiVersion="12.2.1" OriginWorkRepositoryID="1" IsLegacyIdCompatible="false" Created="2018-07-10 17:11:08 +0000" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="null" keyVect="A6EtvfClS59InAuXVf7tuw==" exportKeySalt="c9602859-6e51-4a33-99c9-68dc419028c7" containsCipherText="false"/>
+<Admin IsSmartExportFile="true" RepositoryVersion="05.02.02.07" OdiVersion="12.2.1" OriginWorkRepositoryID="1" IsLegacyIdCompatible="false" Created="2018-07-10 17:29:11 +0000" />
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="null" keyVect="S+mI5/LNy6nf0LCClELzQg==" exportKeySalt="b8b0aaed-c1c6-4613-a837-7dc04f8e8fbe" containsCipherText="false"/>
 <SmartExportList materializeShortcut="true">
    <Include><![CDATA[SnpTrt#153]]></Include>
 </SmartExportList>
@@ -25,12 +25,12 @@
 		<Field name="CecSessBehavior" type="java.lang.String">null</Field>
 	<Field name="CecSessPollIntv" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ExtVersion" type="java.lang.String">null</Field>
-	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2018-06-25 17:54:26.0]]></Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2018-07-10 20:25:24.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[7a5e0802-99ff-4c6a-b518-0d2b9539f9f7]]></Field>
-	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IndPromptParam" type="java.lang.String"><![CDATA[1]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[3]]></Field>
 	<Field name="IsMaterialized" type="java.lang.String"><![CDATA[0]]></Field>
 	<Field name="IDeploySpec" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IMapping" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
@@ -38,9 +38,9 @@
 	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IScenFolder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[153]]></Field>
-	<Field name="ITxtScen" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
+	<Field name="ITxtScen" type="com.sunopsis.sql.DbInt"><![CDATA[35]]></Field>
 	<Field name="IVar" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2018-06-25 17:54:26.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2018-07-10 20:25:24.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="MaxCecSess" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="RepGuid" type="java.lang.String">null</Field>
@@ -48,13 +48,13 @@
 	<Field name="RestartType" type="java.lang.String">null</Field>
 	<Field name="ScenName" type="java.lang.String"><![CDATA[TEST_PROCEDURE]]></Field>
 	<Field name="ScenNo" type="com.sunopsis.sql.DbInt"><![CDATA[3]]></Field>
-	<Field name="ScenSnapshotNo" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="ScenSnapshotNo" type="com.sunopsis.sql.DbInt"><![CDATA[4]]></Field>
 	<Field name="ScenVersion" type="java.lang.String"><![CDATA[001]]></Field>
 	<Field name="VLastDate" type="java.sql.Timestamp">null</Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpExpTxtHeader">
-		<Field name="GlobalId" type="java.lang.String"><![CDATA[608c1588-ca65-4e78-9b0a-d68645588bf9]]></Field>
-	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
+		<Field name="GlobalId" type="java.lang.String"><![CDATA[07bfbb51-e9b7-45c5-a0c1-bcdd4ff5910c]]></Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[35]]></Field>
 	<Field name="Txt" type="java.lang.String"><![CDATA[RELEASE_TAG:1.0]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpScenStep">
@@ -63,7 +63,7 @@
 	<Field name="ContextCode" type="java.lang.String">null</Field>
 	<Field name="FContextCode" type="java.lang.String">null</Field>
 	<Field name="GenInfo" type="java.lang.String">null</Field>
-	<Field name="GlobalId" type="java.lang.String"><![CDATA[ed9a04c2-87c2-4679-85cb-d8925965574e]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[2065129a-8a86-411e-8b13-c800748f0d55]]></Field>
 	<Field name="IndLogMethod" type="java.lang.String"><![CDATA[Y]]></Field>
 	<Field name="ITxtVarValue" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="JagentLschemaName" type="java.lang.String">null</Field>
@@ -215,8 +215,8 @@
 	<Field name="SnpsTable" type="java.lang.String"><![CDATA[SNP_OBJ_STATE]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
-		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_EXPTXTHEADER.2]]></Field>
-	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[608c1588-ca65-4e78-9b0a-d68645588bf9]]></Field>
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_EXPTXTHEADER.35]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[07bfbb51-e9b7-45c5-a0c1-bcdd4ff5910c]]></Field>
  <Field name="RefObjFQName" type="java.lang.String">null</Field>
  <Field name="RefObjFQType" type="java.lang.String">null</Field>
  <Field name="RefObjFQNameLengths" type="java.lang.String">null</Field>
