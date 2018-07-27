@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.07" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="MTWhrPRAMjA0kxxGhXdSgQ==" exportKeySalt="be64962c-f683-4c23-aace-bec4fc0314e7" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="O9Sq3LDktGDwDft9QYek8g==" exportKeySalt="cbbb740c-c102-41f1-bb35-1d6a88ade092" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpMapping">
 		<Field name="BusinessName" type="java.lang.String">null</Field>
 	<Field name="Descript" type="java.lang.String"><![CDATA[RELEASE_TAG:1.1]]></Field>
