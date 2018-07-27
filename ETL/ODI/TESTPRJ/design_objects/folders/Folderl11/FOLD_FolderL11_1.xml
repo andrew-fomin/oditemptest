@@ -1,59 +1,58 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<SunopsisExport>
-<Admin RepositoryVersion="05.02.02.07" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="gYTLEI4GPKSYl91Ve9Dw2w==" exportKeySalt="eba86413-5fd9-419e-9324-f82e5ec6e104" containsCipherText="false"/>
-<Object class="com.sunopsis.dwg.dbobj.SnpFolder">
-		<Field name="ExtVersion" type="java.lang.String">null</Field>
-	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2018-07-18 18:02:07.0]]></Field>
-	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
-	<Field name="FolderName" type="java.lang.String"><![CDATA[FolderL11_1]]></Field>
-	<Field name="GlobalId" type="java.lang.String"><![CDATA[dc84d85a-5965-400d-bc02-e43bf0e3824c]]></Field>
-	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
-	<Field name="IFolder" type="com.sunopsis.sql.DbInt"><![CDATA[83]]></Field>
-	<Field name="IProject" type="com.sunopsis.sql.DbInt"><![CDATA[22]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2018-07-18 18:03:06.0]]></Field>
-	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
-	<Field name="OrdFolder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="ParIFolder" type="com.sunopsis.sql.DbInt"><![CDATA[81]]></Field>
-	<Field name="ReleaseTag" type="java.lang.String">null</Field>
-	<Field name="VLastDate" type="java.sql.Timestamp">null</Field>
-</Object>
-<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
-		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_PROJECT.22]]></Field>
-	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[91c77978-4782-45be-bf11-93d0be6ac08d]]></Field>
- <Field name="RefObjFQName" type="java.lang.String"><![CDATA[TestPRJ]]></Field>
- <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT]]></Field>
- <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[7]]></Field>
-</Object>
-<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
-		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_FOLDER.81]]></Field>
-	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[24297065-933a-4f4b-b648-12c2d6040d50]]></Field>
- <Field name="RefObjFQName" type="java.lang.String"><![CDATA[TestPRJ.Folderl11]]></Field>
- <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_FOLDER]]></Field>
- <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[7.9]]></Field>
-</Object>
-<Object class="com.sunopsis.dwg.DwgExportSummary">
-		<Field name="ExpTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
-	<Field name="InstObjNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
-	<Field name="JoinColNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
-	<Field name="JoinNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
-	<Field name="KeyColNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
-	<Field name="KeyNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
-	<Field name="LinkDiagNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
-	<Field name="MorigTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
-	<Field name="MtxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
-	<Field name="OrigTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
-	<Field name="OtherObjectsNb" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
-	<Field name="PlanAgentNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
-	<Field name="StepNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
-	<Field name="TxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
-	<Field name="UeOrigNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
-	<Field name="UeUsedNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
-	<Field name="VarPlanAgentNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
-	<Field name="ScenTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
-	<Field name="OdiVersion" type="java.lang.String"><![CDATA[12.2.1]]></Field>
-	<Field name="OriginRepositoryID" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
-	<Field name="RepositoryVersion" type="java.lang.String"><![CDATA[05.02.02.07]]></Field>
-</Object>
+<?xml version="1.0" encoding="UTF-8"?><!--RELEASE_TAG:1.1--><SunopsisExport>
+  <Admin IsLegacyIdCompatible="false" RepositoryVersion="05.02.02.07"/>
+  <Encryption keyLength="128" containsCipherText="false" keyVect="JBRK2DTb0sdLlQAx1tvXVA==" exportKeySalt="fd51a264-358a-4dfe-b39f-c35cb492a2a4" exportKeyHash="" algorithm="AES"/>
+  <Object class="com.sunopsis.dwg.dbobj.SnpFolder">
+    <Field name="ExtVersion" type="java.lang.String">null</Field>
+    <Field name="FirstDate" type="java.sql.Timestamp">2018-07-18 18:02:07.0</Field>
+    <Field name="FirstUser" type="java.lang.String">SUPERVISOR</Field>
+    <Field name="FolderName" type="java.lang.String">FolderL11_1</Field>
+    <Field name="GlobalId" type="java.lang.String">dc84d85a-5965-400d-bc02-e43bf0e3824c</Field>
+    <Field name="IndChange" type="java.lang.String">U</Field>
+    <Field name="IntVersion" type="com.sunopsis.sql.DbInt">1</Field>
+    <Field name="IFolder" type="com.sunopsis.sql.DbInt">83</Field>
+    <Field name="IProject" type="com.sunopsis.sql.DbInt">22</Field>
+    <Field name="LastDate" type="java.sql.Timestamp">2018-07-27 12:13:10.0</Field>
+    <Field name="LastUser" type="java.lang.String">SUPERVISOR</Field>
+    <Field name="OrdFolder" type="com.sunopsis.sql.DbInt">null</Field>
+    <Field name="ParIFolder" type="com.sunopsis.sql.DbInt">81</Field>
+    <Field name="ReleaseTag" type="java.lang.String">null</Field>
+    <Field name="VLastDate" type="java.sql.Timestamp">null</Field>
+  </Object>
+  <Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+    <Field name="RefKey" type="java.lang.String">SNP_PROJECT.22</Field>
+    <Field name="RefObjGlobalId" type="java.lang.String">91c77978-4782-45be-bf11-93d0be6ac08d</Field>
+    <Field name="RefObjFQName" type="java.lang.String">TestPRJ</Field>
+    <Field name="RefObjFQType" type="java.lang.String">SNP_PROJECT</Field>
+    <Field name="RefObjFQNameLengths" type="java.lang.String">7</Field>
+  </Object>
+  <Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+    <Field name="RefKey" type="java.lang.String">SNP_FOLDER.81</Field>
+    <Field name="RefObjGlobalId" type="java.lang.String">24297065-933a-4f4b-b648-12c2d6040d50</Field>
+    <Field name="RefObjFQName" type="java.lang.String">TestPRJ.Folderl11</Field>
+    <Field name="RefObjFQType" type="java.lang.String">SNP_PROJECT.SNP_FOLDER</Field>
+    <Field name="RefObjFQNameLengths" type="java.lang.String">7.9</Field>
+  </Object>
+  <Object class="com.sunopsis.dwg.DwgExportSummary">
+    <Field name="ExpTxtNb" type="com.sunopsis.sql.DbInt">0</Field>
+    <Field name="InstObjNb" type="com.sunopsis.sql.DbInt">0</Field>
+    <Field name="JoinColNb" type="com.sunopsis.sql.DbInt">0</Field>
+    <Field name="JoinNb" type="com.sunopsis.sql.DbInt">0</Field>
+    <Field name="KeyColNb" type="com.sunopsis.sql.DbInt">0</Field>
+    <Field name="KeyNb" type="com.sunopsis.sql.DbInt">0</Field>
+    <Field name="LinkDiagNb" type="com.sunopsis.sql.DbInt">0</Field>
+    <Field name="MorigTxtNb" type="com.sunopsis.sql.DbInt">0</Field>
+    <Field name="MtxtNb" type="com.sunopsis.sql.DbInt">0</Field>
+    <Field name="OrigTxtNb" type="com.sunopsis.sql.DbInt">0</Field>
+    <Field name="OtherObjectsNb" type="com.sunopsis.sql.DbInt">1</Field>
+    <Field name="PlanAgentNb" type="com.sunopsis.sql.DbInt">0</Field>
+    <Field name="StepNb" type="com.sunopsis.sql.DbInt">0</Field>
+    <Field name="TxtNb" type="com.sunopsis.sql.DbInt">0</Field>
+    <Field name="UeOrigNb" type="com.sunopsis.sql.DbInt">0</Field>
+    <Field name="UeUsedNb" type="com.sunopsis.sql.DbInt">0</Field>
+    <Field name="VarPlanAgentNb" type="com.sunopsis.sql.DbInt">0</Field>
+    <Field name="ScenTxtNb" type="com.sunopsis.sql.DbInt">0</Field>
+    <Field name="OdiVersion" type="java.lang.String">12.2.1</Field>
+    <Field name="OriginRepositoryID" type="com.sunopsis.sql.DbInt">1</Field>
+    <Field name="RepositoryVersion" type="java.lang.String">05.02.02.07</Field>
+  </Object>
 </SunopsisExport>
